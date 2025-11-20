@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://github.com/YASH7080192/YASH7080192/blob/main/WhatsApp%20Image%202025-11-20%20at%2023.57.32.jpeg" 
+       alt="logo"
+       height="600" 
+       style="border-radius: 10px;" />
+</p>
+
+
+
+</p>
+
 <h1 align="center">Hi 👋, I'm Yashvant Giri</h1>
 <h3 align="center">I am currently an MCA student specializing in Artificial Intelligence and Machine Learning at K.R. Mangalam University, Gurugram, Delhi NCR.</h3>
 
