@@ -2,7 +2,7 @@
 <!-- ═══════════ NEON AI/ML PROFILE ═══════════ -->
 
 <p align="center">
-  <img src="./profile-design.png" width="100%" alt="Yashvant Giri Neon AI ML Profile Banner"/>
+  <img src="./profile-desig.png" width="100%" alt="Yashvant Giri Neon AI ML Profile Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Yashvant Giri</h1>
