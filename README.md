@@ -1,64 +1,96 @@
+# 👋 Hi, I'm Yashvant Giri
+
+<h3 align="center">🤖 MCA Student | Aspiring AI & Machine Learning Engineer | Full Stack Developer</h3>
+
 <p align="center">
-  <img src="https://github.com/YASH7080192/YASH7080192/blob/main/WhatsApp%20Image%202025-11-20%20at%2023.57.32.jpeg" 
-       alt="logo"
-       height="600" 
-       style="border-radius: 10px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Projects+with+Python;Web+Development+Enthusiast;Learning+Something+New+Every+Day" alt="Typing SVG" />
 </p>
 
-
-
+<p align="center">
+  <img src="https://github.com/YASH7080192/YASH7080192/blob/main/WhatsApp%20Image%202025-11-20%20at%2023.57.32.jpeg?raw=true" alt="Yashvant Giri" width="250"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Yashvant Giri</h1>
-<h3 align="center">I am currently an MCA student specializing in Artificial Intelligence and Machine Learning at K.R. Mangalam University, Gurugram, Delhi NCR.</h3>
-
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **Python & Machine Learning**
-- 💬 Ask me about **React, Node.js, MongoDB**
-- 📫 Email me at **ldhar3359@gmail.com**
-- 🚀 Passionate about **AI, ML, Deep Learning & Web Development**
-- 🎯 Goal: Become an **AI + Full Stack Developer**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/vishal677665544" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/yashvant-giri-686973383/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-
-<a href="https://www.facebook.com/profile.php?id=100053566644363" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/goswami_vis/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-
-<a href="https://leetcode.com/u/yasha2005/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/YASH7080192">
+    <img src="https://img.shields.io/badge/GitHub-Yashvant%20Giri-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yashvant-giri-686973383/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ldhar3359@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 About Me
 
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+- 🎓 Currently pursuing **MCA in Artificial Intelligence & Machine Learning** at K.R. Mangalam University, Gurugram.
+- 💻 Interested in **Artificial Intelligence, Machine Learning, and Full Stack Development**.
+- 🌱 Currently learning **Python and Machine Learning**.
+- 🛠️ Have worked on AI-based, e-commerce, and engineer-hiring projects.
+- 🎯 My goal is to build useful, intelligent, and user-friendly applications.
+- 🤝 Open to learning opportunities, internships, and fresher-level roles.
+
+---
+
+## 🧰 Languages & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,react,nodejs,mongodb,mysql,git,github&perline=6" alt="Technology Skills"/>
 </p>
 
 ---
 
-### 📊 Most Used Languages  
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash7080192&show_icons=true&locale=en&layout=compact" />
+## 📌 Featured Projects
+
+<p align="center">
+  <b>🤖 AI-Based Platform</b><br/>
+  Exploring how AI can solve real-world problems.
+</p>
+
+<p align="center">
+  <b>🛒 E-Commerce Website</b><br/>
+  Building web experiences with a focus on usability and design.
+</p>
+
+<p align="center">
+  <b>🏗️ Engineer Hiring Platform</b><br/>
+  Connecting customers with professionals through a web-based platform.
 </p>
 
 ---
 
-### 🚀 Thanks for visiting my profile!
+## 📊 GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YASH7080192&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH7080192&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YASH7080192&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://x.com/vishal677665544">X / Twitter</a> •
+  <a href="https://www.linkedin.com/in/yashvant-giri-686973383/">LinkedIn</a> •
+  <a href="https://www.facebook.com/profile.php?id=100053566644363">Facebook</a> •
+  <a href="https://www.instagram.com/goswami_vis/">Instagram</a> •
+  <a href="https://leetcode.com/u/yasha2005/">LeetCode</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YASH7080192&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <b>✨ Learn • Build • Improve • Repeat ✨</b>
+</p>
+
+<p align="center">Thanks for visiting my profile! 😊</p>
